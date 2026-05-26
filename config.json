@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdarse",
+        "uuid": 3591801,
+        "checksum": "yl27w5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
